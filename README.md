@@ -4,9 +4,9 @@
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 <h2 style="text-align: center;">
-  Para ver funcionando, clique
-  <a href="https://projeto-dev-links-phi.vercel.app" target="_blank">Aqui</a>
+  Para ver funcionando, <a href="https://projeto-dev-links-phi.vercel.app" target="_blank">clique aqui</a>.
 </h2>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
